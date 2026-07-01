@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+locale = 'ru-ru'
+title = 'PixFox Blog'
+theme = "reimu"
+
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = false
+
+  [languages.ru]
+    label = "Русский"        # Было: languageName = "Русский"
+    contentDir = "content/ru"
+    weight = 1
+
+[languages]
+  [languages.en]
+    label = "English"        # Было: languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+
+
