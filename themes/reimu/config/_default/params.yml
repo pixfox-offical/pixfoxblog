@@ -4,8 +4,6 @@
 
 # main menu navigation
 # for more icon information, please visit https://github.com/D-Sketon/hexo-theme-reimu/issues/30
-icon_font: false
-
 menu:
   - name: home
     url: ""
