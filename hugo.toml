@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL =  " https://pixfox-offical.github.io/pixfoxblog/ "
 locale = 'ru-ru'
 title = 'PixFox Blog'
 theme = "reimu"

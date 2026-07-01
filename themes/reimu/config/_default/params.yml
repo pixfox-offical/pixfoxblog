@@ -7,10 +7,10 @@
 menu:
   - name: home
     url: ""
-    icon: <FontAwesomeIcon icon={byPrefixAndName.fas['house']} /> # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon: '' # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
-    icon: <FontAwesomeIcon icon={byPrefixAndName.fas['folder-open']} />
+    icon: 
   - name: about
     url: "about"
     icon:
