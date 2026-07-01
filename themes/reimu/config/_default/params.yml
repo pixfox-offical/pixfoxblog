@@ -4,10 +4,12 @@
 
 # main menu navigation
 # for more icon information, please visit https://github.com/D-Sketon/hexo-theme-reimu/issues/30
+icon_font: false
+
 menu:
   - name: home
     url: ""
-    icon: '' # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon: f015 # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
     icon: 
